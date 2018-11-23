@@ -16,3 +16,21 @@ parallel working
 >>>>>>> git commit- 3
 
 new new chakjwdnv
+nfjldsnfjkdsnfjnsdfjdsnfjkdsnfjkdnf
+<<<<<<< HEAD
+
+e12312341311323iorughiuhguheiugheiorgheitughuigtlgegjym
+
+
+someChanges&&&777
+
+new chabneg
+cheebfk
+=======
+
+extra changes
+
+parallel working
+>>>>>>> git commit- 3
+
+new new chakjwdnv
