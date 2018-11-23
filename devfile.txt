@@ -1,4 +1,5 @@
 jksdhnfjldsnfjkdsnfjnsdfjdsnfjkdsnfjkdnf
+<<<<<<< HEAD
 
 e12312341311323iorughiuhguheiugheiorgheitughuigtlgegjym
 
@@ -7,3 +8,6 @@ someChanges&&&777
 
 new chabneg
 cheebfk
+=======
+parallel working
+>>>>>>> git commit- 3
